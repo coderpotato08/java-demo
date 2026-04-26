@@ -11,7 +11,7 @@ public class TestArray {
         strArr[1] = "shit";
         System.out.println(Arrays.toString(strArr));
 
-        // ArrayList
+        // ArrayList 对象数组
         /* 用法1： 创建制定长度的数组 */
         ArrayList<String> arr = new ArrayList<>(3);
         arr.add("a");
@@ -26,7 +26,7 @@ public class TestArray {
             System.out.println(s);
         }
 
-        // LinkedList
+        // LinkedList 双向链表
         LinkedList<Integer> linkedList = new LinkedList<>();
         linkedList.add(2);
         linkedList.add(3);
