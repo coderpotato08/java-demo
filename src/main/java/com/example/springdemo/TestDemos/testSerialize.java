@@ -1,4 +1,4 @@
-package com.example.springdemo;
+package com.example.springdemo.TestDemos;
 
 import com.example.springdemo.common.User;
 

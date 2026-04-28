@@ -1,4 +1,4 @@
-package com.example.springdemo.TestBigDecimal;
+package com.example.springdemo.TestDemos.TestBigDecimal;
 
 import java.math.BigDecimal;
 import java.math.RoundingMode;

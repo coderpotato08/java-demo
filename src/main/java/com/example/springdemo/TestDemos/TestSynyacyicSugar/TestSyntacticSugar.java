@@ -1,4 +1,4 @@
-package com.example.springdemo.TestSynyacyicSugar;
+package com.example.springdemo.TestDemos.TestSynyacyicSugar;
 
 import java.io.BufferedReader;
 import java.io.FileReader;

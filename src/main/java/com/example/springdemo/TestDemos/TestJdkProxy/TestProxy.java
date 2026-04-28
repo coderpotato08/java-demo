@@ -1,4 +1,4 @@
-package com.example.springdemo.TestJdkProxy;
+package com.example.springdemo.TestDemos.TestJdkProxy;
 
 public class TestProxy {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.example.springdemo.TestJdkProxy;
+package com.example.springdemo.TestDemos.TestJdkProxy;
 
 public class SmsServiceImpl implements SmsSerivce {
     public String send (String smsCode) {

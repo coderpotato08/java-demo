@@ -1,4 +1,4 @@
-package com.example.springdemo.TestBaseClass;
+package com.example.springdemo.TestDemos.TestBaseClass;
 
 import java.util.*;
 import java.util.concurrent.CountDownLatch;

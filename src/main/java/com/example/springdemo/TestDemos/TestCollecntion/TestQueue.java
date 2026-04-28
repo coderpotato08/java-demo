@@ -1,4 +1,4 @@
-package com.example.springdemo.TestCollecntion;
+package com.example.springdemo.TestDemos.TestCollecntion;
 
 import java.util.ArrayDeque;
 import java.util.Queue;

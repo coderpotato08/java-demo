@@ -1,4 +1,4 @@
-package com.example.springdemo.TestBaseClass;
+package com.example.springdemo.TestDemos.TestBaseClass;
 
 public class TestString {
     public static void main(String[] args) {

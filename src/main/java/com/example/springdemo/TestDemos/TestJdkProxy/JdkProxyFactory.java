@@ -1,4 +1,4 @@
-package com.example.springdemo.TestJdkProxy;
+package com.example.springdemo.TestDemos.TestJdkProxy;
 
 import java.lang.reflect.Proxy;
 /*

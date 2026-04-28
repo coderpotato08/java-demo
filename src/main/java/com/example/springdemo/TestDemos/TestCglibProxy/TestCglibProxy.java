@@ -1,4 +1,4 @@
-package com.example.springdemo.TestCglibProxy;
+package com.example.springdemo.TestDemos.TestCglibProxy;
 
 public class TestCglibProxy {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.example.springdemo.TestSynyacyicSugar;
+package com.example.springdemo.TestDemos.TestSynyacyicSugar;
 
 public class OuterClass {
     private String name;
